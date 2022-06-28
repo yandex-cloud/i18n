@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/yandex-cloud/i18n/compare/v0.6.0...v0.6.1) (2022-06-28)
+
+
+### Bug Fixes
+
+* **replaceParams:** correctly substitute params with special content ([#29](https://github.com/yandex-cloud/i18n/issues/29)) ([4f791c5](https://github.com/yandex-cloud/i18n/commit/4f791c56822dc9d1645cbe852738056412d5d0e6))
+
 ## [0.6.0](https://github.com/yandex-cloud/i18n/compare/v0.5.0...v0.6.0) (2022-05-24)
 
 
